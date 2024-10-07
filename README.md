@@ -92,3 +92,7 @@ Code:-<br>
     return 0;
     }
 
+Output:-<br>
+![exp18](https://github.com/VandanGupte101727/CDS-experiment-18/blob/main/Screenshot%202024-10-07%20at%201.55.34%20PM.png)<br>
+
+Conclusin:-in this experiment we learnt about stack and its operations 
