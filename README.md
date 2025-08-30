@@ -1,9 +1,4 @@
-# CDS-experiment-18
-c plus plus and data structures experiment 18
-
-Aim:- To study and implement stack operation<br>
-
-Software used:- VS code <br>
+STACK OPERATIONS
 
 Theory:-<br>
 A stack is a linear data structure that follows the Last In, First Out (LIFO) principle, meaning the last element inserted is the first one to be removed. It operates like a real-life stack (e.g., plates), where you can only add or remove items from the top.<br>
